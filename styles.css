@@ -177,3 +177,5 @@ img { max-width: 100%; display: block; }
   .panel { animation: none; }
   .btn, .menu li { transition: none; }
 }
+
+.crop-sign { object-position: 30% 22%; transform: scale(1.9); transform-origin: 30% 22%; }
